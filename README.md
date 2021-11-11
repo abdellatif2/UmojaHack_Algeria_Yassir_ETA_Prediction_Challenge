@@ -7,6 +7,6 @@ Ride-hailing apps like Uber and Yassir rely on real-time data and machine learni
 
 ***The objective of this hackathon is to predict the estimated time of arrival at the dropoff point for a single Yassir journey.***
 
-## Our Solution
+## Our SolutionS
 Our solution was based on XGBOOST model, and on creating new features using the provided data. [The New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration) on Kaggle was a great inspiration since the problem is similar.
  
